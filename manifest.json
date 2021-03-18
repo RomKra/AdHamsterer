@@ -1,7 +1,7 @@
 {
 
   "manifest_version": 2,
-  "name": "Facebook Add Collector",
+  "name": "AdHamsterer",
   "version": "1.0",
 
   "description": "Grabs all Sponsored posts from your fb page and saves them for later",
@@ -23,7 +23,7 @@
 
   "browser_action": {
     "default_icon": "icons/border-48.png",
-    "default_title": "Facebook Add Collector",
+    "default_title": "AdHamsterer",
     "default_popup": "start.html"
   },
 
